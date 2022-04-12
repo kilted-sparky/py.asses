@@ -1,0 +1,19 @@
+Student Timetable
+
+=====FRIDAY====
+
+First Period: English
+
+Second Period: English
+
+MORNING BREAK
+
+Third Period: Math
+
+LUNCH BREAK
+
+Fourth Period: Tech Studies
+
+Fifth Period: Tech Studies
+
+

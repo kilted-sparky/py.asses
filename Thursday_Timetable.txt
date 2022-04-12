@@ -1,0 +1,17 @@
+Student Timetable
+
+=====THURSDAY====
+
+First Period: Geography
+
+Second Period: Geography
+
+MORNING BREAK
+
+Third Period: Science
+
+LUNCH BREAK
+
+Fourth Period: Science
+
+Fifth Period: Study period

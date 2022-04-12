@@ -1,0 +1,7 @@
+=====Spell Checker HELP=====
+
+This function will ask you to input a word that you think is the answer to the question.
+
+You can use upper or lower case, but the wrong answer will ask you to try again.
+
+This fucntion will be adapted and could hold a bank of words to check against in future.

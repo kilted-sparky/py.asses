@@ -1,0 +1,19 @@
+Student Timetable
+
+=====TUESDAY====
+
+First Period: Art
+
+Second Period: Art
+
+MORNING BREAK
+
+Third Period: Geography
+
+LUNCH BREAK
+
+Fourth Period: P.E
+
+Fifth Period: P.E
+
+

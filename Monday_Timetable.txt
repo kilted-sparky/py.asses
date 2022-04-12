@@ -1,0 +1,20 @@
+Student Timetable
+
+=====MONDAY====
+
+First Period: Math
+
+Second Period: English
+
+MORNING BREAK
+
+Third Period: English
+
+LUNCH BREAK
+
+Fourth Period: Science
+
+Fifth Period: Science
+
+
+

@@ -1,0 +1,18 @@
+===== Diary/Notes HELP=====
+
+This function is a free text function. When you enter it will ak whats happening today,
+you can then enter notes, whats on your mind, anything you like really.
+
+It is a one line entry system so you will be able to enter as much as you like but it will be in one line.
+if you hit ENTER it will ask if there is anything else you would like to enter:
+
+yes - will allow you to enter more test
+
+no - will quit out to the main menu
+
+open - will open the diary/notes. However will only show the entry from the previous 
+       use of the function. If you wish to view what was just entered you will need
+       to quit out and return.
+
+This is a prototype, going forward updates to this functiuon will allow multiple line etries
+and to show the most recent entries.

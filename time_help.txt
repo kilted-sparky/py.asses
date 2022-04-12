@@ -1,0 +1,8 @@
+===== Timetable HELP=====
+
+With the timetable function you can enter what day you would like to view your timetable
+for and then the program will output that day.
+
+If there are any updates to the timetable these will appear at the bottom encased
+in ***s. Therefore it is worthwhile checking your timetable regularly.
+

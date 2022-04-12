@@ -1,0 +1,17 @@
+Student Timetable
+
+=====WEDNESDAY====
+
+First Period: Home Economics
+
+Second Period: Home Economics
+
+MORNING BREAK
+
+Third Period: Math
+
+LUNCH BREAK
+
+Fourth Period: Math
+
+Fifth Period: R.E

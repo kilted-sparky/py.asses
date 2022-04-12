@@ -1,0 +1,20 @@
+=====Calculator HELP=====
+
+The Calculator can be used to help you with multiple Mathematical queries.
+
+If you choose option 1 then you will be able to enter 2 numbers and the calculator 
+will add those together and give you the answer.
+
+If you choose option 2 then the calculator will take the 2 numbers entered and 
+subtract the first from the second number entered and then give you the answer.
+
+If you choose option 3 the calculator will multiply the first number by the second number
+and give you the answer.
+
+If you choose option 4 then the calculator will divide the first number entered by the second
+and give you the answer.
+
+Option 5 will return you to the Main Menu.
+
+Once you have completed the mathematical sum it will ask if you would like to do another
+you can choose one of the 5 options again.
